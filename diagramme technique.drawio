@@ -1,1 +1,67 @@
-<mxfile host="app.diagrams.net" modified="2021-05-02T14:22:48.918Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36 OPR/75.0.3969.171" version="14.6.9" etag="bZw0WgQd0XNg8ThI6wob" type="github"><diagram id="HBvTLtwZ1KGbcm09aiui">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-05-02T14:57:31.814Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36 OPR/75.0.3969.171" etag="z7T8ca8DzWnusSkh2OKR" version="14.6.9" type="github">
+  <diagram id="HBvTLtwZ1KGbcm09aiui" name="Page-1">
+    <mxGraphModel dx="1038" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="TQID2nPI-zpPXozI36MZ-1" value="Angular version 9&lt;br&gt;- Bootstrap 4&lt;br&gt;-zmdi&amp;nbsp; icons ...&lt;br&gt;-NGinx comme serveur http" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacing=12;" vertex="1" parent="1">
+          <mxGeometry x="488" y="100" width="180" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="TQID2nPI-zpPXozI36MZ-2" value="Front end" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="533" y="50" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TQID2nPI-zpPXozI36MZ-3" value="- Application spring boot&lt;br&gt;- packaging jar&amp;nbsp;&lt;br&gt;- possibilité de l&#39;utilisation de docker&lt;br&gt;- base de données MongoDB" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingTop=0;spacing=15;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="440" y="330" width="276" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="TQID2nPI-zpPXozI36MZ-5" value="Back end" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="578" y="300" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TQID2nPI-zpPXozI36MZ-7" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;align=left;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="60" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="TQID2nPI-zpPXozI36MZ-9" value="DNS" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="274" y="22" width="50" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="TQID2nPI-zpPXozI36MZ-11" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="37" as="sourcePoint" />
+            <mxPoint x="270" y="37" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TQID2nPI-zpPXozI36MZ-13" value="www.waun.com" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="123" y="10" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TQID2nPI-zpPXozI36MZ-17" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="269" y="50" as="sourcePoint" />
+            <mxPoint x="58" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TQID2nPI-zpPXozI36MZ-18" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="71.09090909090912" as="sourcePoint" />
+            <mxPoint x="480" y="127" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TQID2nPI-zpPXozI36MZ-19" value="" style="endArrow=classic;html=1;entryX=0.362;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="TQID2nPI-zpPXozI36MZ-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="194" as="sourcePoint" />
+            <mxPoint x="510" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TQID2nPI-zpPXozI36MZ-20" value="" style="endArrow=classic;html=1;entryX=0.14;entryY=1.031;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="TQID2nPI-zpPXozI36MZ-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="513" y="328" as="sourcePoint" />
+            <mxPoint x="488" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TQID2nPI-zpPXozI36MZ-21" value="" style="endArrow=classic;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="150" as="sourcePoint" />
+            <mxPoint x="70" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
